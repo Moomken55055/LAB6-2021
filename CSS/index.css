@@ -1,0 +1,54 @@
+
+body{
+font-family: 'Source Code Pro', monospace;
+font-size:16px;
+background: #eef; 
+text-align:justify;
+margin:5px;
+}
+
+h1{ 
+font-family: "Merriweather", serif; 
+font-size:24px;
+line-height:2;
+background-image: url('C:\Users\pc\Desktop\IT-UQU(pra)\gitrepo\LAB4-2021\img\css_header.png');
+color:red;
+text-align:center;
+text-transform:uppercase;
+}
+img{
+	width:15%;
+	float:right;
+	clear:both;
+}
+
+article, aside, footer, header, menu, nav, section { 
+display: block; 
+} 
+article, section{
+	margin:20px
+}
+images, nav, texts, aside{
+	padding:2;
+}
+nav{
+	float:right;
+}
+
+
+
+aside{
+	width: 30%;
+	padding-left: 15px;
+	margin-left: 15px;
+	float: right;
+	font-style: italic;
+	background-color: lightgray;
+	}
+	footer{
+	text-align: center;
+	padding: 15px
+	background-color:#ffcc99;
+	color: black;
+	
+	}
